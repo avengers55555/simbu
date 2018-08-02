@@ -1,0 +1,27 @@
+h1{
+  text-align:left;
+  font-family: forte;
+
+}
+.parent{
+  display:flex;
+  flex-direction: row;
+  justify-content: center
+
+}
+.one{
+  width: 30%;
+  padding:1%;
+
+
+}
+.two{
+  width: 60%;
+  padding:1%;
+
+}
+img{
+  width:300px;
+  height:auto;
+
+}
